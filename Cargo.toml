@@ -5,3 +5,5 @@ authors = ["Jesse Wolfe! <jes5199@gmail.com>"]
 edition = "2018"
 
 [dependencies]
+rocket = "0.3.16"
+rocket_codegen = "0.3.16"
